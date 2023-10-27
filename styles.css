@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(198, 198, 253);
+}
+
+.task{
+    margin-top: 4rem;
+    margin-left: 4rem;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.add{
+    margin-left: 5px;
+}
+
